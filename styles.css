@@ -19,3 +19,17 @@ p {
     font-size: 15px;
     text-align: justify;
 }
+table {
+    border: 3px solid rosybrown;
+    border-collapse: collapse; /* to avoid double borders*/
+    width: 25%;
+}
+th,
+td {
+    border: 2px solid rosybrown;
+    padding: 5px;
+    text-align: center;
+}
+th {
+    background-color: silver;
+}
