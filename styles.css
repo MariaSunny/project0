@@ -1,0 +1,15 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+h4 {
+    color: palevioletred;
+    text-align: left;
+}
+div {
+    background-color: thistle;
+    width: 100px;
+    height: 25px;
+    margin: 30px; /* space from outside to element */
+    padding: 20px; /* space from withing element border*/
+}
