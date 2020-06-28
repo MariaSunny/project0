@@ -12,4 +12,10 @@ div {
     height: 25px;
     margin: 30px; /* space from outside to element */
     padding: 20px; /* space from withing element border*/
+    border: 3px solid salmon;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif; /* mention simple ones used by most browsers as second option as well, so when first font is not recognisable it checks for the next one*/
+    font-size: 15px;
+    text-align: justify;
 }
