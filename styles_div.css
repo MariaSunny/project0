@@ -1,0 +1,15 @@
+#top {
+    /* # is used for id, so all divs/elemenets with id=top will have this behaviour*/
+    color: palevioletred;
+}
+#middle {
+    color: palegreen;
+}
+#bottom {
+    color: palegoldenrod;
+}
+.name {
+    /* . is used for class selector*/
+    font-weight: bold;
+    font-style: italic;
+}
